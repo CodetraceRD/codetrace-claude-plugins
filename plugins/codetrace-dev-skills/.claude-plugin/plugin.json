@@ -1,7 +1,7 @@
 {
   "name": "codetrace-dev-skills",
-  "version": "0.2.0",
-  "description": "CodeTrace R&D software development skills (16): release pipeline (validate, backward-test, release note, installer, stress/memory test), architecture guardrails (structure, modularity, stable base), threading, error handling, data validation, bug tracking, configurable settings, SDK deployment, license keys, and Cowork-Code bus communication.",
+  "version": "0.3.0",
+  "description": "CodeTrace R&D software development skills (17): study-codebase startup discipline, release pipeline (validate, backward-test, release note, stress/memory test, installer), architecture guardrails (structure, modularity, stable base), threading, error handling, data validation, bug tracking, configurable settings, SDK deployment, license keys, and Cowork-Code bus communication.",
   "author": {
     "name": "Kenny Lam (CodeTrace R&D)"
   },

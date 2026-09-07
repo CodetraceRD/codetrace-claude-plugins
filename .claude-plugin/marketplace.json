@@ -8,8 +8,8 @@
     {
       "name": "codetrace-dev-skills",
       "source": "./plugins/codetrace-dev-skills",
-      "description": "CodeTrace R&D software development skills (16): release pipeline, architecture guardrails, threading, error handling, data validation, bug tracking, configurable settings, SDK deployment, license keys, and Cowork-Code bus communication.",
-      "version": "0.2.0"
+      "description": "CodeTrace R&D software development skills (17): study-codebase startup discipline, release pipeline, architecture guardrails, threading, error handling, data validation, bug tracking, configurable settings, SDK deployment, license keys, and Cowork-Code bus communication.",
+      "version": "0.3.0"
     }
   ]
 }
